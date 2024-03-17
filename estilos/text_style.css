@@ -1,0 +1,204 @@
+header{
+    text-align: center;
+}
+.headers h1 {
+    color: #333;
+    font-size: 2.5em;
+    text-align:center;
+}
+
+.headers h2 {
+    color: #555;
+    font-size: 2em;
+    text-align:center;
+}
+
+.headers h3 {
+    color: #777;
+    font-size: 1.8em;
+    text-align: center;
+}
+
+.headers h4 {
+    color: #999;
+    font-size: 1.6em;
+    text-align: center;
+}
+
+.headers h5 {
+    color: #1515155f;
+    font-size: 1.4em;
+    text-align: center;
+}
+
+.headers h6 {
+    color: #ddd;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+.parrafos p {
+    font-size: 1em;
+    line-height: 1.5px;
+    margin-bottom: 10px;
+}
+
+.salto-de-linea p {
+    white-space: pre-line;
+}
+
+.cambio-de-tema {
+    margin-bottom: 20px;
+}
+
+.cambio-de-tema hr {
+    margin: 20px 0;
+    border: none;
+    border-top: 2px dashed #999;
+}
+
+.cambio-de-tema p {
+    font-size: 1.2em;
+}
+
+.superindice sup {
+    font-size: 0.8em;
+}
+
+.subindice sub {
+    font-size: 0.8em;
+}
+
+.texto-muy-importante strong {
+    color: #ff0000;
+}
+
+.enfasis em {
+    font-style: italic;
+    color: #007bff;
+}
+
+.resaltado mark {
+    background-color: #ffff00;
+    color: #000;
+}
+
+.cita-en-linea q {
+    color: #28a745;
+    font-style: italic;
+}
+
+
+figure {
+    margin: 20px 0;
+    padding: 10px;
+}
+
+blockquote {
+    font-style: italic;
+    color: #0b0b0ca9;
+}
+
+figcaption {
+    text-align: right;
+    font-size: 0.9em;
+    color: #37313195;
+}
+
+.titulo-de-trabajo cite {
+    font-style: italic;
+    color: #4d3213;
+}
+
+.titulo-de-trabajo hr {
+    margin: 20px 0;
+    border: none;
+    border-top: 2px solid #007bff;
+}
+
+/* Estilos para la definición de términos */
+.definiciones dfn {
+    font-weight: bold;
+}
+
+/* Estilos para las abreviaturas */
+.abreviaturas abbr {
+    border-bottom: 1px dotted #999;
+    cursor: help;
+}
+
+/* Estilos para el texto pequeño */
+.texto small {
+    font-size: 0.8em;
+    color: #6c757d;
+}
+
+/* Estilos para el texto agregado */
+.texto-agregado del {
+    color: #dc3545;
+}
+
+.texto-agregado ins {
+    color: #28a745;
+}
+
+/* Estilos para el texto eliminado */
+.texto-eliminado del {
+    color: #dc3545;
+}
+
+.texto-eliminado ins {
+    color: #28a745;
+}
+
+.tachar-texto s {
+    color: #999;
+    text-decoration: line-through;
+}
+
+.tachar-texto strong {
+    color: #28a745;
+}
+
+.codigo code {
+    color: #007bff;
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+
+.salida-computadora samp {
+    display: block;
+    padding: 10px;
+}
+
+.entrada-usuario kbd {
+    background-color: #e9ecef;
+    border: 1px solid #ccc;
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+
+.conservar-formato pre {
+    white-space: pre;
+}
+
+.contacto a {
+    color: #007bff;
+}
+
+.caracteres-especiales {
+    margin-bottom: 20px;
+}
+
+.caracteres-especiales p {
+    font-size: 1em;
+    color: #6c757d;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    background-color: #dac19a;
+}
