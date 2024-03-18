@@ -37,11 +37,6 @@ header{
     text-align: center;
 }
 
-.parrafos p {
-    font-size: 1em;
-    line-height: 1.5px;
-    margin-bottom: 10px;
-}
 
 .salto-de-linea p {
     white-space: pre-line;

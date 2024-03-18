@@ -44,3 +44,6 @@ tfoot {
     color: #777;
 }
 
+th {
+    border: 1px solid white;
+}
